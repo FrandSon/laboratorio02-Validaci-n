@@ -1,4 +1,4 @@
-# Práctica SmartWallet - [Tu Nombre]
+# Práctica SmartWallet - Francisco Sánchez
 Implementación de lógica de negocio y pruebas unitarias con JUnit 5.
 
 ## Ejecución
